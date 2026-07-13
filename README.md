@@ -26,7 +26,7 @@ I am especially interested in technology that preserves agency, supports complex
 I collaborate with mission-driven organizations and creative teams on communications, digital tools, operational workflows, partnerships, accessible experiences, and thoughtful uses of AI.
 
 [Karass Media](https://www.karassmedia.com)  
-[LinkedIn](in/eli-duffy)
+[LinkedIn](https://www.linkedin/eli-duffy)
 
 ## Support independent work
 
