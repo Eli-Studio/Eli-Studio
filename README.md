@@ -2,7 +2,7 @@
 
 I’m an independent creator making local-first tools, creative systems, and speculative worlds at the intersection of design, communications, operations, and tool building.
 
-My work moves between practical web apps, workflow systems, publishing, worldbuilding, and experiments in more relational ways of living with technology.
+My work moves between practical web apps, human-in-the-loop workflows, AI-assisted creative systems, publishing, worldbuilding, and experiments in more relational ways of living with technology.
 
 ## Current public project
 
@@ -17,7 +17,7 @@ It is designed to be free, installable, and usable without creating an account o
 
 ## My practice
 
-I work across local-first and privacy-conscious tools, accessible interface design, communications systems, workflow and operations design, AI-assisted development, and speculative storytelling.
+I work across local-first and privacy-conscious tools, communications systems, workflow and operations design, AI-assisted development, and speculative storytelling.
 
 I am especially interested in technology that preserves agency, supports complexity, and adapts to the people using it rather than demanding that people adapt to the platform.
 
