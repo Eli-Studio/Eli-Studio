@@ -13,7 +13,7 @@ Movement Practice is a local-first exercise app built around adaptable routines,
 It is designed to be free, installable, and usable without creating an account or sending personal data to an external platform.
 
 [View the project](https://github.com/Eli-Studio/morning-circuit-public)
-[Try the app](https://eli-studio.github.io/morning-circuit-public/)
+[Try the app](https://eli-studio.github.io/movement-practice/)
 
 ## My practice
 
