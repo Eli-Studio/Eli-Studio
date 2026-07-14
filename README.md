@@ -6,9 +6,9 @@ My work moves between practical web apps, human-in-the-loop workflows, AI-assist
 
 ## Current public project
 
-### Movement
+### Movement Practice
 
-Movement is a local-first exercise app built around adaptable routines, changing capacity, and a less rigid relationship to progress.
+Movement Practice is a local-first exercise app built around adaptable routines, changing capacity, and a less rigid relationship to progress.
 
 It is designed to be free, installable, and usable without creating an account or sending personal data to an external platform.
 
