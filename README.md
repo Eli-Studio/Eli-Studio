@@ -2,7 +2,7 @@
 
 I’m an independent creator making local-first tools, creative systems, and speculative worlds at the intersection of design, communications, operations, and tool building.
 
-My work moves between practical web apps, human-in-the-loop workflows, AI-assisted creative systems, publishing, worldbuilding, and experiments in more relational ways of living with technology.
+My work moves between practical web apps, human-in-the-loop workflows, creative systems, publishing, worldbuilding, and experiments in more relational ways of living with technology.
 
 ## Current public project
 
