@@ -4,20 +4,9 @@ I’m an independent creator making local-first tools, creative systems, and spe
 
 My work moves between small web tools, human-in-the-loop workflows, creative systems, publishing, world-building, and experiments in more relational ways of living with technology.
 
-## Current public project
-
-### Movement Practice
-
-Movement Practice is a local-first exercise app built around adaptable routines, changing capacity, and a less rigid relationship to progress.
-
-It is designed to be free, installable, and usable without creating an account or sending personal data to an external platform.
-
-[View the project](https://github.com/Eli-Studio/morning-circuit-public)
-[Try the app](https://eli-studio.github.io/movement-practice/)
-
 ## My practice
 
-I work across local-first and privacy-conscious tools, communications systems, workflow and operations design, AI-assisted development, and speculative storytelling.
+I work across local-first and privacy-conscious tools, communications systems, workflow and operations design, game development, and speculative storytelling.
 
 I am especially interested in technology that preserves agency, supports complexity, and adapts to the people using it rather than demanding that people adapt to the platform.
 
